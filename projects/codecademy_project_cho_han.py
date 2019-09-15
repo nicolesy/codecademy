@@ -4,7 +4,7 @@
 
 # The function should have a parameter that allows for the player to guess whether the sum of the two dice is "Odd" or "Even". The function should also have a parameter that allows the player to bet an amount of money on the game.
 
-# test
+# test Test test
 
 import random
 
